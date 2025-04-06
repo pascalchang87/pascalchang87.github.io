@@ -21,11 +21,12 @@ redirect_from:
 
 I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of ETH Zürich and [DisneyResearch\|Studios](https://studios.disneyresearch.com/), supervised by [Prof. Dr. Markus Gross](https://cgl.ethz.ch/people/grossm/) and [Dr. Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/). I earned my Master's degree of Computer Science in 2022 from ETH Zürich. Before that, I did my engineering degree at Ecole polytechnique in Paris, France. My research interests include machine learning, generative AI, and their intersection with computer graphics and artistic control.
 
-
+<br>
 # 🔥 News
 - *2025.04*: &nbsp;🎉 *LookingGlass* has been accepted to CVPR 2025 (Oral)! 
 - *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
 
+<br>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='images/papers/2025_lookingglass.jpg' alt="sym" width="100%"></div></div>
@@ -78,6 +79,7 @@ Xiaochen Zhou, **Pascal Chang**, Marie-Paule Cani, Bedrich Benes
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<br>
 # 📖 Education
 - *2023.01 - Present*, Joint PhD at ETH / Disney Research supervised by Prof. Dr. Markus Gross and Dr. Vinicius Azevedo. 
 - *2020.09 - 2022.11*, MSc ETH in Computer Science (Zürich, Switzerland). 
@@ -87,6 +89,7 @@ Xiaochen Zhou, **Pascal Chang**, Marie-Paule Cani, Bedrich Benes
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+<br>
 # 💻 Services
 
 ## Conference Reviewer
