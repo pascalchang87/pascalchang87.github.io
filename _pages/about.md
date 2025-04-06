@@ -15,44 +15,87 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 👋 Hi there!
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of ETH Zürich and [DisneyResearch\|Studios](https://studios.disneyresearch.com/), supervised by [Prof. Dr. Markus Gross](https://cgl.ethz.ch/people/grossm/) and [Dr. Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/). I earned my Master's degree of Computer Science in 2022 from ETH Zürich. Before that, I did my engineering degree at Ecole polytechnique in Paris, France. My research interests include machine learning, generative AI, and their intersection with computer graphics and artistic control.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉 *LookingGlass* has been accepted to CVPR 2025 (Oral)! 
+- *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='images/papers/2025_lookingglass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping** (CVPR 2025 Oral)]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Pascal Chang**, Sergio Sancho, Jingwei Tang, Markus Gross, Vinicius Azevedo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ArXiv / Webpage / Video
+
+<br>
+
+*We repurpose latent diffusion models to generate high-quality, complex, multi-view optical illusions such as anamorphoses.*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Oral)</div><img src='images/papers/2024_warpyournoise.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models** (ICLR 2024 Oral)](https://openreview.net/pdf?id=pzElnMrgSD)
+
+**Pascal Chang**, Jingwei Tang, Markus Gross, Vinicius Azevedo
+
+ArXiv / [Webpage](https://warpyournoise.github.io/) / [OpenReview](https://openreview.net/forum?id=pzElnMrgSD) / [Video](https://www.youtube.com/watch?v=LCFBq3YlwDk&t)
+
+<br>
+
+*We propose a method to warp a Gaussian noise sample while keeping it Gaussian and apply it to diffusion models to help temporal coherency.*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2021</div><img src='images/papers/2021_urbanbrush.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Urban Brush: Intuitive and Controllable Urban Layout Editing** (UIST 2021)](https://dl.acm.org/doi/pdf/10.1145/3472749.3474787)
+
+Xiaochen Zhou, **Pascal Chang**, Marie-Paule Cani, Bedrich Benes
+
+[Paper](https://dl.acm.org/doi/10.1145/3472749.3474787) / [Video (short)](https://youtu.be/yFMD1NYEa2o?si=hLEbC1n9iQYp_OPG) / [Video (full)](https://youtu.be/Vzcq73o2jh4?si=kyFZRbufujF59XYI)
+
+<br>
+
+*We design intuitive brushes for controllable editing and authoring of procedural urban landscapes.* 
+
+</div>
+</div>
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2023.01 - Present*, Joint PhD at ETH / Disney Research supervised by Prof. Dr. Markus Gross and Dr. Vinicius Azevedo. 
+- *2020.09 - 2022.11*, MSc ETH in Computer Science (Zürich, Switzerland). 
+- *2017.09 - 2022.03*, Engineering Degree from Ecole polytechnique (Paris, France).
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Services
+
+## Conference Reviewer
+
+- Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Learning Representations (ICLR)
+- European Association for Computer Graphics (Eurographics) 
+
+## Teaching
+
+- [252-0543-01L  Computer Graphics](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=LERNMATERIALIEN&lerneinheitId=182005&lang=en)
+- [252-0833-00L  Informatik II (D-MAVT)](https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=187116&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=de)
