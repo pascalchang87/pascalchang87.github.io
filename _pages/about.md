@@ -23,6 +23,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
+- *2025.04*: &nbsp;🎉 *How I Warped Your Noise* is now available on [ArXiv](https://arxiv.org/abs/2504.03072)! 
 - *2025.04*: &nbsp;🎉 *LookingGlass* has been accepted to CVPR 2025 (Oral)! 
 - *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
 
@@ -51,7 +52,7 @@ ArXiv / Webpage / Video
 
 **Pascal Chang**, Jingwei Tang, Markus Gross, Vinicius Azevedo
 
-ArXiv / [Webpage](https://warpyournoise.github.io/) / [OpenReview](https://openreview.net/forum?id=pzElnMrgSD) / [Video](https://www.youtube.com/watch?v=LCFBq3YlwDk&t)
+[ArXiv](https://arxiv.org/abs/2504.03072) / [Webpage](https://warpyournoise.github.io/) / [OpenReview](https://openreview.net/forum?id=pzElnMrgSD) / [Video](https://www.youtube.com/watch?v=LCFBq3YlwDk&t)
 
 <br>
 
