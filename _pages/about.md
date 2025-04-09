@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of ETH Zürich and [DisneyResearch\|Studios](https://studios.disneyresearch.com/), supervised by [Prof. Dr. Markus Gross](https://cgl.ethz.ch/people/grossm/) and [Dr. Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/). I earned my Master's degree of Computer Science in 2022 from ETH Zürich. Before that, I did my engineering degree at Ecole polytechnique in Paris, France. My research interests include machine learning, generative AI, and their intersection with computer graphics and artistic control.
+I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of ETH Zürich and [DisneyResearch\|Studios](https://studios.disneyresearch.com/), supervised by [Prof. Dr. Markus Gross](https://cgl.ethz.ch/people/grossm/) and [Dr. Vinicius Azevedo](https://studios.disneyresearch.com/people/vinicius-da-costa-de-azevedo/). I earned my Master's degree of Computer Science in 2022 from ETH Zürich. Before that, I completed my engineering degree at Ecole polytechnique in Paris, France (equivalent to BSc & MSc). My research interests include machine learning, generative AI, and their intersection with computer graphics and artistic control.
 
 <br>
 # 🔥 News
