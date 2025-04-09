@@ -12,12 +12,12 @@ repository               : "pascalchang87/pascalchang87.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-E043NP4GY4 #G-SWFCX99KQZ
+google_analytics_id      : G-E043NP4GY4
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : tUt5bcNulgcXKDZij7MhIKmQPfRfLJV9WseG_GPsOEA # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 1D9F7B5946455728BC8AC859C1495586 # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  : # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
