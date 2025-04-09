@@ -30,7 +30,12 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 <br>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='images/papers/2025_lookingglass.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div>
+<img src='images/papers/2025_lookingglass.jpg'
+  alt="sym"
+  width="100%"
+  onmouseover="this.src='images/papers/2025_lookingglass.gif'"
+  onmouseout="this.src='images/papers/2025_lookingglass.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping** (CVPR 2025 Oral)]()
@@ -45,7 +50,12 @@ ArXiv / Webpage / Video
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Oral)</div><img src='images/papers/2024_warpyournoise.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Oral)</div>
+<img src='images/papers/2024_warpyournoise.jpg'
+  alt="sym"
+  width="100%"
+  onmouseover="this.src='images/papers/2024_warpyournoise.gif'"
+  onmouseout="this.src='images/papers/2024_warpyournoise.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models** (ICLR 2024 Oral)](https://openreview.net/pdf?id=pzElnMrgSD)
@@ -60,14 +70,18 @@ ArXiv / Webpage / Video
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2021</div><img src='images/papers/2021_urbanbrush.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2021</div><img src='images/papers/2021_urbanbrush.jpg'
+  alt="sym"
+  width="100%"
+  onmouseover="this.src='images/papers/2021_urbanbrush.gif'"
+  onmouseout="this.src='images/papers/2021_urbanbrush.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Urban Brush: Intuitive and Controllable Urban Layout Editing** (UIST 2021)](https://dl.acm.org/doi/pdf/10.1145/3472749.3474787)
 
-Xiaochen Zhou, **Pascal Chang**, Marie-Paule Cani, Bedrich Benes
+Xiaochen Zhou\*, **Pascal Chang**\*, Marie-Paule Cani, Bedrich Benes
 
-[Paper](https://dl.acm.org/doi/10.1145/3472749.3474787) / [Video (short)](https://youtu.be/yFMD1NYEa2o?si=hLEbC1n9iQYp_OPG) / [Video (full)](https://youtu.be/Vzcq73o2jh4?si=kyFZRbufujF59XYI)
+[Paper](https://dl.acm.org/doi/10.1145/3472749.3474787) / [Webpage](https://urbanbrush.wordpress.com/) / [Video (short)](https://youtu.be/yFMD1NYEa2o?si=hLEbC1n9iQYp_OPG) / [Video (full)](https://youtu.be/Vzcq73o2jh4?si=kyFZRbufujF59XYI)
 
 <br>
 
