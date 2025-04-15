@@ -23,9 +23,8 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
-- *2025.04*: &nbsp;🎉 *LookingGLass* was uploaded to [ArXiv](https://arxiv.org/abs/2504.08902)! 
+- *2025.04*: &nbsp;🎉 [*LookingGlass*](https://arxiv.org/abs/2504.08902) has been accepted to CVPR 2025 (Oral)! 
 - *2025.04*: &nbsp;🎉 *How I Warped Your Noise* is now available on [ArXiv](https://arxiv.org/abs/2504.03072)! 
-- *2025.04*: &nbsp;🎉 *LookingGlass* has been accepted to CVPR 2025 (Oral)! 
 - *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
 
 <br>
