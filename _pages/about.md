@@ -23,6 +23,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
+- *2025.04*: &nbsp;🎉 *LookingGLass* was uploaded to [ArXiv](https://arxiv.org/abs/2504.08902)! 
 - *2025.04*: &nbsp;🎉 *How I Warped Your Noise* is now available on [ArXiv](https://arxiv.org/abs/2504.03072)! 
 - *2025.04*: &nbsp;🎉 *LookingGlass* has been accepted to CVPR 2025 (Oral)! 
 - *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
@@ -38,11 +39,11 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
   onmouseout="this.src='images/papers/2025_lookingglass.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping** (CVPR 2025 Oral)]()
+[**LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping** (CVPR 2025 Oral)](https://arxiv.org/pdf/2504.08902)
 
 **Pascal Chang**, Sergio Sancho, Jingwei Tang, Markus Gross, Vinicius Azevedo
 
-ArXiv / Webpage / Video
+[ArXiv](https://arxiv.org/abs/2504.08902) / Webpage / Video
 
 <br>
 
