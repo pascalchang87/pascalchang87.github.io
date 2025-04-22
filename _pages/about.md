@@ -42,7 +42,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 **Pascal Chang**, Sergio Sancho, Jingwei Tang, Markus Gross, Vinicius Azevedo
 
-[ArXiv](https://arxiv.org/abs/2504.08902) / Webpage / Video
+[ArXiv](https://arxiv.org/abs/2504.08902) / [Webpage](https://lookingglass-lpw.github.io/) / Video
 
 <br>
 
