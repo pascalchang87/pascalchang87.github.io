@@ -23,12 +23,34 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
+- *2025.12*: &nbsp;🎉 [*Strands Neural Style Transfer*](https://dl.acm.org/doi/abs/10.1145/3763365) has been published at SIGGRAPH Asia 2025! 
+- *2025.08*: &nbsp;🎖 *LookingGlass* has received the DCAJ Award and the Laval Virtual Award at SIGGRAPH 2025 Emerging Technologies! 
 - *2025.04*: &nbsp;🎉 [*LookingGlass*](https://arxiv.org/abs/2504.08902) has been accepted to CVPR 2025 (Oral)! 
 - *2025.04*: &nbsp;🎉 *How I Warped Your Noise* is now available on [ArXiv](https://arxiv.org/abs/2504.03072)! 
 - *2024.05*: &nbsp;🎉 [*How I Warped Your Noise*](https://warpyournoise.github.io/) was presented at ICLR 2024 in Vienna, Austria! 
 
 <br>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (Journal)</div>
+<img src='images/papers/2025_snst.jpg'
+  alt="sym"
+  width="100%"
+  onmouseover="this.src='images/papers/2025_snst.gif'"
+  onmouseout="this.src='images/papers/2025_snst.jpg'"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Shaping Strands with Neural Style Transfer** (SIGGRAPH Asia 2025 (Journal))](https://dl.acm.org/doi/abs/10.1145/3763365)
+
+Beyzanur Coban, **Pascal Chang**, Guilherme G. Haetinger, Jingwei Tang, Vinicius C. Azevedo
+
+[Paper](https://dl.acm.org/doi/abs/10.1145/3763365) / [Video](https://www.youtube.com/watch?v=dJzP2_q_7QY)
+
+<br>
+
+*We propose the first neural style transfer method for hair and fur strands stylization.*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div>
 <img src='images/papers/2025_lookingglass.jpg'
@@ -40,9 +62,9 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 [**LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping** (CVPR 2025 Oral)](https://arxiv.org/pdf/2504.08902)
 
-**Pascal Chang**, Sergio Sancho, Jingwei Tang, Markus Gross, Vinicius Azevedo
+**Pascal Chang**, Sergio Sancho, Jingwei Tang, Markus Gross, Vinicius C. Azevedo
 
-[ArXiv](https://arxiv.org/abs/2504.08902) / [Webpage](https://lookingglass-lpw.github.io/) / Video
+[ArXiv](https://arxiv.org/abs/2504.08902) / [Webpage](https://lookingglass-lpw.github.io/) / [Video](https://www.youtube.com/watch?v=B3AZay43688)
 
 <br>
 
@@ -60,7 +82,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 [**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models** (ICLR 2024 Oral)](https://openreview.net/pdf?id=pzElnMrgSD)
 
-**Pascal Chang**, Jingwei Tang, Markus Gross, Vinicius Azevedo
+**Pascal Chang**, Jingwei Tang, Markus Gross, Vinicius C. Azevedo
 
 [ArXiv](https://arxiv.org/abs/2504.03072) / [Webpage](https://warpyournoise.github.io/) / [OpenReview](https://openreview.net/forum?id=pzElnMrgSD) / [Video](https://www.youtube.com/watch?v=LCFBq3YlwDk&t)
 
@@ -96,7 +118,7 @@ Xiaochen Zhou\*, **Pascal Chang**\*, Marie-Paule Cani, Bedrich Benes
 
 <br>
 # 📖 Education
-- *2023.01 - Present*, Joint PhD at ETH / Disney Research supervised by Prof. Dr. Markus Gross and Dr. Vinicius Azevedo. 
+- *2023.01 - Present*, Joint PhD at ETH / Disney Research supervised by Prof. Dr. Markus Gross and Dr. Vinicius C. Azevedo. 
 - *2020.09 - 2022.11*, MSc ETH in Computer Science (Zürich, Switzerland). 
 - *2017.09 - 2022.03*, Engineering Degree from Ecole polytechnique (Paris, France).
 
@@ -112,6 +134,7 @@ Xiaochen Zhou\*, **Pascal Chang**\*, Marie-Paule Cani, Bedrich Benes
 - Computer Vision and Pattern Recognition (CVPR)
 - International Conference on Learning Representations (ICLR)
 - European Association for Computer Graphics (Eurographics) 
+- ACM SIGGRAPH
 
 ## Teaching
 
