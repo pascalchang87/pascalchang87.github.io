@@ -40,7 +40,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
   onmouseout="this.src='images/papers/2025_snst.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Shaping Strands with Neural Style Transfer** (SIGGRAPH Asia 2025 (Journal))](https://dl.acm.org/doi/abs/10.1145/3763365)
+[**Shaping Strands with Neural Style Transfer** (SIGGRAPH Asia 2025 Journal)](https://dl.acm.org/doi/abs/10.1145/3763365)
 
 Beyzanur Coban, **Pascal Chang**, Guilherme G. Haetinger, Jingwei Tang, Vinicius C. Azevedo
 
