@@ -23,6 +23,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
+- *2026.06*: &nbsp;🎉 I will be presenteing [*What Is It Like to Be a Noise?*](https://openaccess.thecvf.com/content/CVPR2026/html/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.html) at CVPR 2026 in Denver! 
 - *2025.12*: &nbsp;🎉 [*Strands Neural Style Transfer*](https://dl.acm.org/doi/abs/10.1145/3763365) has been published at SIGGRAPH Asia 2025! 
 - *2025.08*: &nbsp;🎖 *LookingGlass* has received the DCAJ Award and the Laval Virtual Award at SIGGRAPH 2025 Emerging Technologies! 
 - *2025.04*: &nbsp;🎉 [*LookingGlass*](https://arxiv.org/abs/2504.08902) has been accepted to CVPR 2025 (Oral)! 
@@ -31,6 +32,24 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<img src='images/papers/2026_entropy_noise.png'
+  alt="sym"
+  width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models** (CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.html)
+
+**Pascal Chang**, Kai Lascheit, Jingwei Tang, Markus Gross, Vinicius C. Azevedo
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.pdf) / [Supp](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Chang_What_Is_It_CVPR_2026_supplemental.pdf)
+
+<br>
+
+*We propose a novel entropy-based regularization method for Gaussian noise in diffusion models.*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (Journal)</div>
 <img src='images/papers/2025_snst.jpg'
