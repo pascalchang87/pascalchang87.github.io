@@ -34,9 +34,11 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
-<img src='images/papers/2026_entropy_noise.png'
+<img src='images/papers/2026_entropy_noise.jpg'
   alt="sym"
-  width="100%"></div></div>
+  width="100%"
+  onmouseover="this.src='images/papers/2026_entropy_noise.jpg'"
+  onmouseout="this.src='images/papers/2026_entropy_noise.jpg'"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models** (CVPR 2026)](https://openaccess.thecvf.com/content/CVPR2026/html/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.html)
