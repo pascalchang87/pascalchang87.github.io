@@ -23,7 +23,7 @@ I'm a joint PhD student at the [Computer Graphics Lab](https://cgl.ethz.ch) of E
 
 <br>
 # 🔥 News
-- *2026.06*: &nbsp;🎉 I will be presenteing [*What Is It Like to Be a Noise?*](https://openaccess.thecvf.com/content/CVPR2026/html/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.html) at CVPR 2026 in Denver! 
+- *2026.06*: &nbsp;🎉 I will be presenting [*What Is It Like to Be a Noise?*](https://openaccess.thecvf.com/content/CVPR2026/html/Chang_What_Is_It_Like_to_Be_a_Noise_An_Entropy-based_CVPR_2026_paper.html) at CVPR 2026 in Denver! 
 - *2025.12*: &nbsp;🎉 [*Strands Neural Style Transfer*](https://dl.acm.org/doi/abs/10.1145/3763365) has been published at SIGGRAPH Asia 2025! 
 - *2025.08*: &nbsp;🎖 *LookingGlass* has received the DCAJ Award and the Laval Virtual Award at SIGGRAPH 2025 Emerging Technologies! 
 - *2025.04*: &nbsp;🎉 [*LookingGlass*](https://arxiv.org/abs/2504.08902) has been accepted to CVPR 2025 (Oral)! 
